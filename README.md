@@ -207,9 +207,3 @@ Para esse desafio, temos os seguintes testes:
 [Copy of Testes pages/Cart/index.tsx](https://www.notion.so/Copy-of-Testes-pages-Cart-index-tsx-6357f7ec7ba74cd4b9759c9158beb6d9)
 
 [Copy of Testes hooks/useCart.tsx](https://www.notion.so/Copy-of-Testes-hooks-useCart-tsx-7e3b10a0f0ce42c2a6ddec8cf50f1723)
-
-## Como deve ficar a aplicação ao final?
-
-Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos abaixo um vídeo mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
-
-[desafio_assets/challenge.mp4](desafio_assets/challenge.mp4)
